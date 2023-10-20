@@ -44,7 +44,7 @@ After guessing the correct number, players will be redirected to the score page,
 Now, let's try the Hard Mode
 ![Hard Mode](images/9.png)
 
-In Hard Mode, players do not have a list to track their entries. Instead, they face a countdown timer of 20 seconds. To make the game more challenging, hints such as "Try a lower value" or "Try a higher value" are provided to assist the player
+In Hard Mode, players do not have a list to track their entries. Instead, they face a countdown timer of 20 seconds to make the game more challenging and hints such as "Try a lower value" or "Try a higher value" are provided to assist the player
 ![Interface Hard](images/10.png)
 
 If the player runs out of time in Hard Mode, an alert will be displayed to indicate it, and the player will be redirected to the home page
