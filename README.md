@@ -7,19 +7,19 @@ The Guessing Game is a simple and interactive mobile application built with Kotl
 - Players can enter their name and choose their preferred game mode
 - Scores  are saved, allowing players to track their progress
 
-### Game Modes
+## Game Modes
 
-#### Beginner Mode
+### Beginner Mode
 - In this mode, players can take their time to guess the correct number
 - The game displays the entire history of their attempts
 - There's no time limit, so players can play relaxed
 
-#### Expert Mode
+### Expert Mode
 - Expert Mode is designed for more adventurous players
 - It does not display the history of attempts, providing a more challenging experience
 - The game imposes a strict time limit of 20 seconds
 
-### Game Preview
+## Game Preview
 A sneak peek at the home page of the game
 ![Home Page](images/1.png)
 
